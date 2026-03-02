@@ -1,0 +1,104 @@
+{
+  "database_info": {
+    "folder_name": "DB資料庫",
+    "last_updated": "2026-03-02"
+  },
+  "entries": [
+    {
+      "id": "NPC_001",
+      "category": "NPC",
+      "version": "1.0",
+      [cite_start]"name": "林．赫爾曼（Lin Herrmann） [cite: 1]",
+      [cite_start]"affiliation": "地球聯合政府 [cite: 1]",
+      [cite_start]"content": "身份定位為聯合政府・警察部高階調度官。 [cite: 1] [cite_start]具有不殘忍但毫不猶豫的性格，真心相信秩序能保護更多人。 [cite: 1] [cite_start]無公開靈能，但私下接受過自愈能力相關改造（未承認）。 [cite: 1]"
+    },
+    {
+      "id": "NPC_002",
+      "category": "NPC",
+      "version": "1.0",
+      [cite_start]"name": "艾娃・宋（Ava Song） [cite: 1]",
+      [cite_start]"affiliation": "地球聯合政府（聯合礦業公司） [cite: 1]",
+      [cite_start]"content": "身份定位為聯合礦業公司・靈能採集計畫負責人。 [cite: 1] [cite_start]不相信宗教也不完全信任政府，只信數據能說話。 [cite: 1] [cite_start]無個人靈能，但熟知大量靈能試驗資料。 [cite: 1]"
+    },
+    {
+      "id": "NPC_003",
+      "category": "NPC",
+      "version": "1.0",
+      [cite_start]"name": "馬庫斯・雷恩（Marcus Rane） [cite: 1]",
+      [cite_start]"affiliation": "地球聯合政府 [cite: 1]",
+      [cite_start]"content": "身份定位為政府軍前線軍官。 [cite: 1] [cite_start]尊重力量但厭惡謊言，對靈能既警惕又敬畏。 [cite: 1] [cite_start]無靈能，但對靈能戰術極為熟悉。 [cite: 1]"
+    },
+    {
+      "id": "NPC_004",
+      "category": "NPC",
+      "version": "1.0",
+      [cite_start]"name": "赫克托・瓦倫（Hector Valen） [cite: 1]",
+      [cite_start]"affiliation": "地球聯合政府（聯合礦業公司） [cite: 1]",
+      [cite_start]"content": "身份定位為聯合礦業公司／前線大型礦區最高負責人。 [cite: 1] [cite_start]利益至上主義者，不相信任何理念只相信回報。 [cite: 1] [cite_start]無靈能，對靈能者態度務實。 [cite: 1]"
+    },
+    {
+      "id": "NPC_005",
+      "category": "NPC",
+      "version": "1.0",
+      [cite_start]"name": "伊拉斯（Iras） [cite: 1]",
+      [cite_start]"affiliation": "紅教 [cite: 1]",
+      [cite_start]"content": "身份定位為紅教中階祭司。 [cite: 1] [cite_start]真心相信靈能是祝福，對被犧牲者抱持愧疚。 [cite: 1] [cite_start]擁有輕度靈能（感知 / 預兆類），從不主動使用於戰鬥。 [cite: 1]"
+    },
+    {
+      "id": "NPC_006",
+      "category": "NPC",
+      "version": "1.0",
+      [cite_start]"name": "塞拉（Serah） [cite: 1]",
+      [cite_start]"affiliation": "紅教 [cite: 1]",
+      [cite_start]"content": "身份定位為荊棘修女團成員。 [cite: 1] [cite_start]信仰即行動，對假覺醒者毫不留情。 [cite: 1] [cite_start]擁有戰鬥型靈能技能，數量少但效果強。 [cite: 1]"
+    },
+    {
+      "id": "NPC_007",
+      "category": "NPC",
+      "version": "1.0",
+      [cite_start]"name": "無名（No-Name Pilgrim） [cite: 1]",
+      [cite_start]"affiliation": "紅教 [cite: 1]",
+      [cite_start]"content": "身份定位為紅教底層信徒。 [cite: 1] [cite_start]極度虔誠，對靈能者毫不畏懼。 [cite: 1] [cite_start]無正式技能，但異常幸運。 [cite: 1]"
+    },
+    {
+      "id": "NPC_008",
+      "category": "NPC",
+      "version": "1.0",
+      [cite_start]"name": "卡洛斯（Karlos） [cite: 1]",
+      [cite_start]"affiliation": "紅教（激進派） [cite: 1]",
+      [cite_start]"content": "身份定位為紅教激進派祭司。 [cite: 1] [cite_start]宗教狂熱的具象化，對紅教的狂熱凌駕一切。 [cite: 1] [cite_start]靈能技能數量少且強度不高，但使用頻率極高。 [cite: 1]"
+    },
+    {
+      "id": "NPC_009",
+      "category": "NPC",
+      "version": "1.0",
+      [cite_start]"name": "奇米拉（Chimera） [cite: 1]",
+      [cite_start]"affiliation": "自由民 [cite: 1]",
+      [cite_start]"content": "身份定位為自由民靈能領袖之一。 [cite: 1] [cite_start]崇尚實力，不相信任何大敘事。 [cite: 1] [cite_start]為多技能者，技能彼此風格差異極大。 [cite: 1]"
+    },
+    {
+      "id": "NPC_010",
+      "category": "NPC",
+      "version": "1.0",
+      [cite_start]"name": "羅薩（Rosa, the Crow Eye） [cite: 1]",
+      [cite_start]"affiliation": "自由民（天眼閣） [cite: 1]",
+      [cite_start]"content": "身份定位為天眼閣情報販子。 [cite: 1] [cite_start]相信資訊比力量更危險，對所有勢力保持距離。 [cite: 1] [cite_start]擁有低度感知型技能，與科技高度混用。 [cite: 1]"
+    },
+    {
+      "id": "NPC_011",
+      "category": "NPC",
+      "version": "1.0",
+      [cite_start]"name": "赫茲（Hertz） [cite: 1]",
+      [cite_start]"affiliation": "自由民 [cite: 1]",
+      [cite_start]"content": "身份定位為自由民工匠。 [cite: 1] [cite_start]對政府與宗教都失望，只想把東西修好。 [cite: 1] [cite_start]無主動技能，但能製作與靈能高度相容的裝置。 [cite: 1]"
+    },
+    {
+      "id": "NPC_012",
+      "category": "NPC",
+      "version": "1.0",
+      [cite_start]"name": "觀測者（The Observer） [cite: 1]",
+      [cite_start]"affiliation": "自由民（天眼閣） [cite: 1]",
+      [cite_start]"content": "身份定位為天眼閣實際掌控者。 [cite: 1] [cite_start]不在乎誰贏，只在乎誰知道真相，對權力沒有興趣。 [cite: 1] [cite_start]靈能狀態不明，可能完全沒有，也可能是極端高階感知型。 [cite: 1]"
+    }
+  ]
+}
